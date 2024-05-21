@@ -37,4 +37,3 @@ The `database` folder contains various SQL scripts that demonstrate different fu
 
 * Modify the project structure as needed to suit your organization preferences.
 * This project serves as a learning tool for personal development.
-* 
