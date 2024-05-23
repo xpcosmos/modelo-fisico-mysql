@@ -8,12 +8,16 @@ MySQL
 
 **Project Structure:**
 
-The project structure can be adapted to your preference. Here's a suggestion for organization:
+Here's the used structure for this project:
 
 ```
-modelo_fisico_mysql/
+physical-data-model-mysql/
 ├── database          
-│   ├── schema.sql              
+│   ├── data
+|   |   ├── fato.txt
+|   ├── 01 - create_tablespace.sql (Creating tablespace)
+|   ├── 02 - create_tables.sql     (Creating Tables, schemas and partitions)
+|   ├── 03 - load_data.sql         (Loading data from data/fato.txt - inside the server - to table)
 ├── README.md
 ```
 
@@ -29,11 +33,10 @@ This project provides a hands-on experience with key aspects of MySQL database m
 
 **Exploring the Database:**
 
-The `database` folder contains various SQL scripts that demonstrate different functionalities. These scripts can be executed once you connect to the MySQL server on your VM. 
+The `database` folder contains various SQL scripts that demonstrate different functionalities and example of the used data. These scripts can be executed once you connect to the MySQL server on your VM. 
 
 **Note:** You'll need to have a separate setup process for the VM and database (not included in this project) to connect and run the scripts. 
 
 **Remember:**
 
-* Modify the project structure as needed to suit your organization preferences.
 * This project serves as a learning tool for personal development.
