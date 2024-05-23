@@ -1,6 +1,8 @@
 **Modelo Físico MySQL**
 
-This project serves as a practical demonstration of my learning journey with MySQL databases. It utilizes a MySQL database server set up on a Red Hat Enterprise Linux 9 (RHEL 9) virtual machine (VM). 
+This project serves as a practical demonstration of my learning journey with MySQL databases. It utilizes a MySQL database server set up on a Red Hat Enterprise Linux 9 (RHEL 9) virtual machine (VM). This initial proupuse is to implement the model bellow:
+
+![img1](src/dimensional-model.png)
 
 **Database System:** 
 
