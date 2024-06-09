@@ -12,21 +12,6 @@ This project serves as a practical demonstration of my learning journey with MyS
 * Drawio
 * SFTP/FTP Protocol
 
-# Project Structure
-
-Here's the used structure for this project:
-
-```
-physical-data-model-mysql/
-├── database          
-│   ├── data
-|   |   ├── fato.txt
-|   ├── 01 - create_tablespace.sql (Creating tablespace)
-|   ├── 02 - create_tables.sql     (Creating Tables, schemas and partitions)
-|   ├── 03 - load_data.sql         (Loading data from data/fato.txt - inside the server - to table)
-├── README.md
-```
-
 # Purpouse
 
 This project provides a hands-on experience with key aspects of MySQL database management, including:
