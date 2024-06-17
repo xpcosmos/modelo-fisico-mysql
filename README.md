@@ -29,3 +29,15 @@ This project provides a hands-on experience with key aspects of MySQL database m
 * You'll need to have a separate setup process for the VM and database (not included in this project) to connect and run the scripts. 
 
 * This project serves as a learning tool for personal development.
+
+# Contact
+## Contact
+
+<p align="left">
+  <a href="malito:mikeias.d.s.o@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/mikeias-d-s-o/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+
+</p>  
